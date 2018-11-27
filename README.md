@@ -19,7 +19,7 @@ At present, our primary project (really, project*s*) of interest for this positi
 
 As part of this project, the trainee will learn first-hand about state-of-the-art brain imaging methods and processing steps, as well as develop experience in designing research questions.  The trainee will also be expected to contribute to the study design and implementation.  Likely skills obtained include: brain imaging experience, scientific methodology, image/signal processing, and scripting/programming.
 
- 
+  
 #### Desired background
 
 The ideal applicant would have one or more of the following properties:
