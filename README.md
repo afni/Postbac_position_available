@@ -15,9 +15,11 @@ The SSCC develops and maintains [AFNI](https://afni.nimh.nih.gov), one of the mo
 
 #### What you will be doing
 
-At present, our primary project (really, project*s*) of interest for this position would involve investigating how results both task-based and resting state FMRI studies change as various analysis steps are altered (such as type of registration to standard space, blurring, motion regression, etc.).  This would involve analyzing data sets and working with the group to determine quantitative assessments of results as well as useful means for visualization.
+The Postbac program provides research training for recent college graduates who are planning to continue studies/research in biomedical research, medicine, etc.
 
-As part of this project, the trainee will learn first-hand about state-of-the-art brain imaging methods and processing steps, as well as develop experience in designing research questions.  The trainee will also be expected to contribute to the study design and implementation.  Likely skills obtained include: brain imaging experience, scientific methodology, image/signal processing, and scripting/programming.
+Our primary focus is on improving MRI tools and methodology. The Postbac will investigate how results both task-based and resting state FMRI studies change as various analysis steps are altered (such as type of registration to standard space, blurring, motion regression, etc.).  This involves analyzing MRI data sets and working with the group to determine quantitative assessments of results as well as useful means for visualization.
+
+During this project, the trainee will learn first-hand about state-of-the-art neuroimaging methods and analysis, as well as develop experience in designing research questions.  The trainee will also be expected to contribute to the study design and implementation.  Likely skills obtained include: brain imaging experience, scientific methodology, image/signal processing, and scripting/programming.
 
   
 #### Desired background
@@ -28,16 +30,20 @@ The ideal applicant would have one or more of the following properties:
 + Some programming background, such as Python, R and/or C/C++. 
 + An interest in "problem solving" both independently and collaboratively.
 
-We are looking for someone to start as soon as practicable, but the timing is flexible.
+We are looking for someone to start by June 1, 2019, but the timing is flexible to start either earlier or (slightly) later.  The Postbac positions are for 1-2 years, with 2 being preferred. 
 
-The Postbac positions are for 1-2 years, with 2 being preferred.
+#### Eligibility (from [here](https://www.training.nih.gov/programs/postbac_irta)): 
 
-More information on NIH Postbac IRTA program can be found [here](https://www.nimh.nih.gov/labs-at-nimh/scientific-director/office-of-fellowship-and-training/fellowships-and-training-programs/postbaccalaureate-programs.shtml)
+To be eligible, candidates must be U.S. citizens or permanent residents.  Additionally, the Postbac IRTA/CRTA Program is for individuals who meet any ONE of the following criteria:
+
++ college graduates who received their bachelor's degrees less than THREE years prior to the date they begin the program,
++ individuals who are more than 3 years past the receipt of their bachelor's degree but received a master's degree less than SIX MONTHS before they begin the program, OR
++ students who have been accepted into graduate, other doctoral, or medical school programs and who have written permission from their school to delay entrance for up to one year to pursue a biomedical research project at the NIH.
+
+See full eligibility requirements, as well as stipend information, [here](https://www.training.nih.gov/programs/postbac_irta).  More information on NIH Postbac IRTA program can be found [here](https://www.nimh.nih.gov/labs-at-nimh/scientific-director/office-of-fellowship-and-training/fellowships-and-training-programs/postbaccalaureate-programs.shtml).
 
 #### Who we are
-Our Core is mainly comprised of people with backgrounds in the fields of math, physics, engineering, statistics, computer science, and neuroscience.  
-We develop open source, publicly available tools for the neuroimaging community, and we routinely run hands-on training workshops in MRI analysis methods (mainly FMRI and DTI).  
-In all cases, work is done in collaboration with NIH researchers to ensure that the resulting methods and software are both useful and usable.  
+Our Core is mainly comprised of people with backgrounds in the fields of math, physics, engineering, statistics, computer science, and neuroscience.  We develop open source, publicly available tools for the neuroimaging community, and we routinely run hands-on training workshops in MRI analysis methods (mainly FMRI and DTI).  In all cases, work is done in collaboration with NIH researchers to ensure that the resulting methods and software are both useful and usable.  
 
 We are located at the National Institutes of Health in Bethesda, MD, USA, in the ever-interesting Washington, DC, metropolitan area.
 
